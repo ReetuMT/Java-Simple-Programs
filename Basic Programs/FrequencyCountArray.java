@@ -16,7 +16,7 @@ public class FrequencyArray {
 			if(fr[i]!=enter) {
 				fr[i]=count;
 			}
-		
+	
 		}
 		for(int i=0;i<fr.length;i++) {
 			if(fr[i]!=enter) {
