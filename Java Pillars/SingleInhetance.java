@@ -11,6 +11,7 @@ class School{
 		System.out.println(age);
 	}
 }
+
 class Student extends School{
 	String name="kirti";
 	int age=18;
